@@ -24,4 +24,4 @@
 
 ### If you want to run socketBBS in the background, I suggest using tmux.
 
-## Warning: If you are using cloudflare, socketBBS will not work properly unless you set cloudflare to true. This setting is in `app.js`.
+## Warning: If you are using cloudflare, socketBBS will not work properly unless you set cloudflare to true. This setting exists within `app.js`.
